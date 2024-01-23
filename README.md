@@ -29,4 +29,4 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem local
 
-![Logo de Exemplo](img\iconfinder_VIRUS-bacteria-biology-healthcare-medical_6007963.png)
+![Logo de Exemplo](img/iconfinder_VIRUS-bacteria-biology-healthcare-medical_6007963.png)
