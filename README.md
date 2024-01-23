@@ -30,3 +30,7 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![Logo de Exemplo](img/iconfinder_VIRUS-bacteria-biology-healthcare-medical_6007963.png)
+
+#### Imagem externa
+
+![Foto do autor](https://d23lk79jqxzpps.cloudfront.net/upload/profile/thumb/173747-zh2AE-1623431712.jpg)
