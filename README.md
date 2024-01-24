@@ -42,3 +42,10 @@ __Melhoria 1__, _melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/heronjr
+
+## Código da função soma
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
